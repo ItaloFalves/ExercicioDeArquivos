@@ -1,0 +1,14 @@
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\bin\Debug\net8.0\ExercicioDeArquivos.exe
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\bin\Debug\net8.0\ExercicioDeArquivos.deps.json
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\bin\Debug\net8.0\ExercicioDeArquivos.runtimeconfig.json
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\bin\Debug\net8.0\ExercicioDeArquivos.dll
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\bin\Debug\net8.0\ExercicioDeArquivos.pdb
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\obj\Debug\net8.0\ExercicioDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\obj\Debug\net8.0\ExercicioDeArquivos.AssemblyInfoInputs.cache
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\obj\Debug\net8.0\ExercicioDeArquivos.AssemblyInfo.cs
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\obj\Debug\net8.0\ExercicioDeArquivos.csproj.CoreCompileInputs.cache
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\obj\Debug\net8.0\ExercicioDeArquivos.dll
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\obj\Debug\net8.0\refint\ExercicioDeArquivos.dll
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\obj\Debug\net8.0\ExercicioDeArquivos.pdb
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\obj\Debug\net8.0\ExercicioDeArquivos.genruntimeconfig.cache
+C:\temp\projetos\C# - Curso\ExercicioDeArquivos\ExercicioDeArquivos\ExercicioDeArquivos\obj\Debug\net8.0\ref\ExercicioDeArquivos.dll
